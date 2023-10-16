@@ -7,4 +7,3 @@ Use python3 port_scanner.py <target_host> <Port_min_range> <Port_max_range> to r
 use it is to redirect the output to a text file so that it gets easier to work with the scan report further.
 
    # python3 port_scanner.py  192.168.1.1 20 1024  >> Results.txt
-
